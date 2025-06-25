@@ -6,6 +6,8 @@
 // @author       케츠
 // @match        https://crack.wrtn.ai/*
 // @icon         https://crack.wrtn.ai/favicon.ico
+// @updateURL    https://github.com/tincansimagine/crack_token_viewer/raw/refs/heads/main/wrtn-token-display.user.js
+// @downloadURL  https://github.com/tincansimagine/crack_token_viewer/raw/refs/heads/main/wrtn-token-display.user.js
 // @grant        none
 // @license      MIT
 // ==/UserScript==
