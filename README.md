@@ -31,7 +31,7 @@ AI 응답 헤더에 작은 글씨로 토큰 수가 표시됩니다:
 
 ### 2단계: 스크립트 설치
 
-[![Install Script](https://img.shields.io/badge/🚀%20Install-뤼튼_토큰_표시-blue?style=for-the-badge)](https://github.com/tincansimagine/crack_token_viewer/raw/refs/heads/main/wrtn-token-display.user.js)
+[![Install Script](https://img.shields.io/badge/🚀%20Install-뤼튼_토큰_표시-red?style=for-the-badge)](https://github.com/tincansimagine/crack_token_viewer/raw/refs/heads/main/wrtn-token-display.user.js)
 
 **직접 설치 링크:**
 https://github.com/tincansimagine/crack_bakcup/raw/refs/heads/main/wrtn-token-display.user.js
